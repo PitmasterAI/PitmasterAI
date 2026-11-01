@@ -8,14 +8,18 @@
 
 ## Español
 
-PitmasterAI es un proyecto independiente que crea música con inteligencia artificial
-y la pone a sonar en su propia emisora de radio. Todo el catálogo es original y se
-produce, masteriza y emite desde cero: no hay canciones de terceros.
+PitmasterAI es un proyecto independiente que crea música con inteligencia artificial y
+la pone a sonar en su propia emisora de radio. Todo lo que suena es obra original hecha
+con IA —no hay música comercial de terceros— y cada artista conserva la propiedad de sus
+temas. La emisora es además escaparate para otros artistas de música IA que quieran
+difundir la suya.
 
-- 📻 **Radio:** [iaradio.es](https://www.iaradio.es) — emisión continua, peticiones de
-  oyentes y programación por franjas horarias.
-- 🎧 **Proyecto:** [pitmasterai.es](https://www.pitmasterai.es) — el catálogo, los
-  videoclips y las novedades.
+- 📻 **Radio:** [iaradio.es](https://www.iaradio.es) — emisora de música creada con
+  inteligencia artificial, en directo 24/7 y gratis, con dos canales: Latinoamérica y
+  España. Sin registro: abres y suena. Tiene app propia y se le piden canciones por
+  WhatsApp.
+- 🎧 **Proyecto:** [pitmasterai.es](https://www.pitmasterai.es) — el catálogo del
+  artista, los videoclips y las novedades.
 - ▶️ **YouTube:** [@PitmasterAI](https://www.youtube.com/@PitmasterAI) — videoclips y
   el directo de la radio.
 - 🎚️ **PitMasterAudio** — aplicación de masterizado de audio que funciona entera en el
@@ -35,7 +39,7 @@ multibanda, saturación, imagen estéreo y limitador de pico real, acelerado por
 
 ### En qué creemos
 
-- **Contenido propio y libre de derechos.** Ninguna pieza del catálogo usa material de
+- **Contenido original y libre de derechos.** Ninguna pieza usa muestras ni material de
   terceros.
 - **Todo local.** Ni cuentas, ni subidas, ni telemetría: las herramientas procesan el
   audio en tu equipo.
@@ -47,13 +51,16 @@ multibanda, saturación, imagen estéreo y limitador de pico real, acelerado por
 ## English
 
 PitmasterAI is an independent project that makes music with artificial intelligence and
-plays it on its own radio station. The whole catalogue is original and is produced,
-mastered and broadcast from scratch: there are no third-party songs.
+plays it on its own radio station. Everything on air is original, AI-made work —there is
+no third-party commercial music— and every artist keeps ownership of their tracks. The
+station is also a showcase for other AI music artists who want to get their work out
+there.
 
-- 📻 **Radio:** [iaradio.es](https://www.iaradio.es) — continuous broadcast, listener
-  requests and time-slot programming.
-- 🎧 **Project:** [pitmasterai.es](https://www.pitmasterai.es) — the catalogue, the
-  music videos and the latest releases.
+- 📻 **Radio:** [iaradio.es](https://www.iaradio.es) — a station for AI-made music,
+  live 24/7 and free, with two channels: Latin America and Spain. No sign-up: open it
+  and it plays. It has its own app and takes song requests over WhatsApp.
+- 🎧 **Project:** [pitmasterai.es](https://www.pitmasterai.es) — the artist's catalogue,
+  the music videos and the latest releases.
 - ▶️ **YouTube:** [@PitmasterAI](https://www.youtube.com/@PitmasterAI) — music videos and
   the radio live stream.
 - 🎚️ **PitMasterAudio** — an audio mastering application that runs entirely on the
@@ -73,8 +80,7 @@ reference masters.
 
 ### What we stand for
 
-- **Original, rights-clear content.** No piece in the catalogue uses third-party
-  material.
+- **Original, rights-clear content.** No piece uses third-party samples or material.
 - **Everything local.** No accounts, no uploads, no telemetry: the tools process audio
   on your own machine.
 - **Open to inspection.** We publish the source of our tools so anyone can read and
